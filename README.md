@@ -15,5 +15,5 @@ of them for description in case the image didn't load and for accessibility purp
 around with the "width" attribute to scale the images properly for each webpage, since the default sizes
 varied and looked differently on the webpage. 
 
-Overall, a slightly tough but rewarding project. The result is a crude website but it has all the main
+Overall, a slightly tough but satisfying project. The result is a crude website but it has all the main
 components there.
